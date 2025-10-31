@@ -137,3 +137,4 @@ dist
 
 # Locally Stored JSON Tokens
 tokens.json
+msalCache.json
